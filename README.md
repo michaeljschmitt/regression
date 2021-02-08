@@ -1,4 +1,4 @@
-# Regression
+# A Simple Python Regression Program
 
 Welcome to my Regression Program!
 
