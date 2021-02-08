@@ -20,7 +20,7 @@ Instructions:
   <li>Please enter your data in a worksheet named 'Sheet' of a Excel workbook entitled 'Data' or 'Data.xlsx'.</li>
   <li>The first column is for the dependent variable data. All subsequent columns are for independent variable data.</li>
   <li>The first row is for header data. Each subsequent row is a data point for your regression.</li>
-  <li>Add an asterisk symbol to beginning of any header after the first column to ignore that column in your regression.</li>
+  <li>Add an asterisk symbol to beginning of any header (after the first column) that you wish to exclude from the regression.</li>
   <li>All outputs will be saved to the 'Output' folder.</li>
   <li>Double click the program executible once data is entered into the worksheet to run your regression analysis.</li>
   <li>Please remember to save workbook and close all related textfiles before running program.</li>
