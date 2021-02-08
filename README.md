@@ -1,9 +1,5 @@
 # A Simple Python Regression Program
 
-Welcome to my Regression Program!
-
-Created by Michael J. Schmitt.
-
 This program was designed to calculate regressions using Excel and aid you in the multiple regression modeling process.
 There are a variety of outputs depending on your data set, including:
 <ul>
@@ -23,5 +19,7 @@ Instructions:
 </ol>
 
 Thanks and enjoy!
+
+Created by Michael J. Schmitt.
 
 Powered by Anaconda.
