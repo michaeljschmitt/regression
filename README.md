@@ -1,4 +1,4 @@
-# regression
+# Regression
 
 Welcome to my Regression Program!
 
