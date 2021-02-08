@@ -21,5 +21,3 @@ Instructions:
 </ol>
 
 Thanks and enjoy!
-
-Created by Michael J. Schmitt.
