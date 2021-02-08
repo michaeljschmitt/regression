@@ -6,12 +6,14 @@ Created by Michael J. Schmitt.
 
 This program was designed to calculate regressions using Excel and aid you in the multiple regression modeling process.
 There are a variety of outputs depending on your data set, including:
--Full regression results
--Stepwise regression results
--Regression modelling aids (in .txt and .xlsx formats)
--Data cleaning results
--2D regression plot (for single regessor datasets)
--3D regression plot (for two regressor datasets)
+<ul>
+  <li>Full regression results</li>
+  <li>Stepwise regression results</li>
+  <li>Regression modelling aids (in .txt and .xlsx formats)</li>
+  <li>Data cleaning results</li>
+  <li>2D regression plot (for single regessor datasets)</li>
+  <li>3D regression plot (for two regressor datasets)</li>
+</ul>
 
 Instructions:
 Please enter your data in a worksheet named 'Sheet' of a Excel workbook entitled 'Data' or 'Data.xlsx'.
