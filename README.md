@@ -11,6 +11,8 @@ There are a variety of outputs depending on your data set, including:
   <li>3D regression plot (for two regressor datasets)</li>
 </ul>
 
+Python 3 compatible. SciPy stack and openpyxl libraries required.
+
 Instructions:
 <ol>
   <li>Please enter your data into a worksheet named 'Sheet' of an Excel workbook entitled 'Data' or 'Data.xlsx'. The first column is for the dependent variable data. All subsequent columns are for independent variable data. The first row is for header data. Each subsequent row is a data point for your regression.</li>
@@ -21,5 +23,3 @@ Instructions:
 Thanks and enjoy!
 
 Created by Michael J. Schmitt.
-
-Powered by Anaconda.
