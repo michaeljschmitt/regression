@@ -11,7 +11,7 @@ There are a variety of outputs depending on your data set, including:
   <li>3D regression plot (for two regressor datasets)</li>
 </ul>
 
-Python 3 compatible. SciPy stack and openpyxl libraries required.
+Compatible with Python 3. SciPy stack and openpyxl libraries required.
 
 Instructions:
 <ol>
