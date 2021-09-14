@@ -5,7 +5,7 @@ There are a variety of outputs depending on your data set, including:
 <ul>
   <li>Full regression results</li>
   <li>Stepwise regression results</li>
-  <li>Regression modelling aids (in .txt and .xlsx formats)</li>
+  <li>Regression modeling aids (in .txt and .xlsx formats)</li>
   <li>Data cleaning results</li>
   <li>2D regression plot (for single regessor datasets)</li>
   <li>3D regression plot (for two regressor datasets)</li>
